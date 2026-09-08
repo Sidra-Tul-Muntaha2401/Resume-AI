@@ -20,7 +20,7 @@ models = [
 
 for model_name in models:
     # API call
-MAX_RESUME_CHARS = 50000
+    MAX_RESUME_CHARS = 50000
 
 WEIGHTS = {
     "ats_format": 20,
