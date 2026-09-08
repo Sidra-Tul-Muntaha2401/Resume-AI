@@ -13,8 +13,8 @@ from docx import Document
 
 st.set_page_config(page_title="Resume ATS Analyzer", page_icon="📄", layout="wide")
 
-MODEL_NAME = ""gemini-3.6-flash",
-        "gemini-3.5-flash-lite""
+MODEL_NAME = "gemini-3.6-flash",
+        "gemini-3.5-flash-lite"
 MAX_RESUME_CHARS = 50000
 
 WEIGHTS = {
